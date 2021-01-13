@@ -1,0 +1,3 @@
+/mnt/c/Users/Thinkpad/Desktop/programming_projects/quick_virtual_machine/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Thinkpad/Desktop/programming_projects/quick_virtual_machine/build/CMakeFiles/quick_c_vm.dir
+/mnt/c/Users/Thinkpad/Desktop/programming_projects/quick_virtual_machine/build/CMakeFiles/edit_cache.dir

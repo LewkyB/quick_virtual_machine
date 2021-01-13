@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/quick_c_vm.dir/main.c.o -o quick_c_vm 
